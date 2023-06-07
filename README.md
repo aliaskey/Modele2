@@ -9,7 +9,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://aliaskey.github.io" target="_blank"><img src="examples/preview.png">
+    <a href="https://aliaskey.github.io" target="_blank"><img src="examples/preview.jpg">
   </a>
   </kbd>
 </p>
